@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppListViewer</string>
+    <string-array name="query_methods">
+        <item>常规方法</item>
+        <item>绕过权限管理</item>
+    </string-array>
+
+</resources>
